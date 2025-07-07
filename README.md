@@ -22,3 +22,11 @@
 - Tamamen ücretsiz.
 - Sadece derslerle kısıtlı kalmayıp rehberlik imkanı. 
 ---
+<details>
+<summary>1.Sprint</summary>
+<em>Hedef:</em> : Ürünümüzün fikrine karar verme ve görev tanımlarında anlaşma.
+<em>Tamamlanan:</em> Ürünümüzün ne işe yarayacağını hedef kitlesini ve benzeri teorik detaylara karar verdik.
+<br><br><br>
+Puanlandırma metodları:
+
+</details>
