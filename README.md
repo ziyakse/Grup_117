@@ -28,6 +28,7 @@
 <em>Tamamlanan:</em> Ürünümüzün ne işe yarayacağını hedef kitlesini ve benzeri teorik detaylara karar verdik.
 <br><br><br>
 Puanlandırma metodları:
-![Puanlama](https://github.com/user-attachments/assets/51cd6c35-4ae7-42fa-b2e1-153e970bbd79)
+![Arayüz Ekranı](puanlama.png)
+
 
 </details>
