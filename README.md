@@ -27,8 +27,9 @@
 <em>Hedef:</em> : Ürünümüzün fikrine karar verme ve görev tanımlarında anlaşma. <br>
 <em>Tamamlanan:</em> Ürünümüzün ne işe yarayacağını hedef kitlesini ve benzeri teorik detaylara karar verdik.
 <br><br><br>
-Puanlandırma metodları:
-<img src="./img/Puanlama.png">
+<img src="./img/Puanlama.png" width="400"><br>
+<strong>Puanlandırma metodları:</strong>
+
 
 Puanlamaya değer bulduğumuz başlıklar solda. Maksimum alabileceğimiz puanlar sağda. Tahmini olarak 3 haftada bitirmeyi planladığımız için 3 yuvarlak da her hafta kaç puan aldığımızı temsil etmekte.
 
@@ -52,9 +53,10 @@ Teknik detaylara henüz girmediğimiz için puanlama bu şekilde oldu.
 
 <h2>İletişim Kanallarımız</h2>
 <li>Çevrimiçi toplantılarımız için -> Google Meet
-<li>Mesajlaşmalarımız için -> Whatsapp
-<img src="./img/IMG_2225.jpg"><br><br>
-<img src="./img/IMG_2230.jpg">
+<img src="./img/IMG_2230.jpg" width="400px">
+<li>Mesajlaşmalarımız için -> Whatsapp<br>
+<img src="./img/IMG_2225.jpg" width="400px"><br><br>
+
 
 <h2>Neleri Daha İyi Yapabiliriz</h2>
 <h3>İletişim</h3>

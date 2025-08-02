@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Flask temporary files
+instance/
+.flaskenv
+
+# Other files
+.DS_Store
+.vscode/
