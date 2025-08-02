@@ -24,7 +24,7 @@
 ---
 <details>
 <summary>1.Sprint</summary>
-<em>Hedef:</em> : Ürünümüzün fikrine karar verme ve görev tanımlarında anlaşma.
+<em>Hedef:</em> : Ürünümüzün fikrine karar verme ve görev tanımlarında anlaşma. <br>
 <em>Tamamlanan:</em> Ürünümüzün ne işe yarayacağını hedef kitlesini ve benzeri teorik detaylara karar verdik.
 <br><br><br>
 Puanlandırma metodları:
@@ -64,4 +64,28 @@ Teknik detaylara henüz girmediğimiz için puanlama bu şekilde oldu.
 <h3>Araştırma</h3>
 <li>Piyasaki diğer benzer uygulamaları kontrol edip kendimizi geliştirebiliriz.
 
+</details>
+<details>
+  <summary> 2. Sprint </summary>
+  <em>Hedef:</em> Ürünü taslak olarak çalışabilir hâle getirerek incelemek. <br>
+  <em>Tamamlanan:</em> Ürün için gerekli verisetlerinin temizlenmesi, ürün arayüz tasarımı ve kullanılacak toolların kararlaştırılması.
+  <br><br><br>
+  Puanlandırma metodları:
+  <img src="./img/Puanlama2.png">
+  <h3>Araştırma Kaynak Kullanımı</h3>
+  Kaggle üzerindeki açık kaynak verisetleri tek tek incelendi, hangi llm'in kullanılacağına dair performans, fiyat vs. araştırmalar yapıldı ve netleştirildi. 
+  
+  <h3>Takım İçi İletişim</h3>
+  Kısıtlı zaman ve diğer projelerin de etkisiyle hafif bir iletişim kopukluğu yaşandı.
+  
+  <h3>Yapay Zeka ve Veri Kullanımı</h3>
+  Yapay zekâ desteğiyle projemizin temel fikirleri üzerine koyarak sürecimizi ve verimliliğimizi arttırdık.
+  
+  <h2>Neleri Daha İyi Yapabiliriz</h2>
+  <h3>İletişim</h3>
+  <li>Daha sık toplantı yapıp sorunlarımıza daha hızlı çözüm bulabiliriz.
+  <h3>Teknik</h3>
+  <li>Teknik çözümlere odaklanıp daha verimli yollar arayabiliriz
+  <h3>Araştırma</h3>
+  <li>Piyasaki diğer benzer uygulamaları kontrol edip kendimizi geliştirebiliriz.
 </details>
