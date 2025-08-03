@@ -119,7 +119,7 @@ Teknik detaylara henüz girmediğimiz için puanlama bu şekilde oldu.
   <li>Tahmin edilen puanımız:85+ iken yapılan 72.
   <br><br>
   <h3>Ürün Screenshot</h3>
-  <img src="./img/urungorsel">
+  <img src="./img/urungorsel.png">
 
 
 
