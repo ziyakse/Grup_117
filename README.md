@@ -5,7 +5,7 @@
 |Arda Şereflier|
 |Elif Uçaktürk|
 |Talha Çevik|
-|Yusuf Ziya Köse|
+|Yusuf Ziya Köse| Scrum Master
 
 ---
 
@@ -107,12 +107,21 @@ Teknik detaylara henüz girmediğimiz için puanlama bu şekilde oldu.
   <h3>Yapay Zeka ve Veri Kullanımı</h3>
   Yapay zekâ desteğiyle projemizin temel fikirleri üzerine koyarak sürecimizi tamamladık.
   
-  <h2>Neleri Daha İyi Yapabiliriz</h2>
+  <h2>Sprint Retrospektif</h2>
   <h3>İletişim</h3>
   <li>Daha sık toplantı yapıp sorunlarımıza daha hızlı çözüm bulabiliriz.
   <h3>Teknik</h3>
   <li>Teknik çözümlere odaklanıp daha verimli yollar arayabiliriz
   <h3>Araştırma</h3>
   <li>Piyasaki diğer benzer uygulamaları kontrol edip kendimizi geliştirebiliriz.
+  <h2>Sprint Sonu Beklentileri</h2>
+  <li>Hedefimiz kısmen tamamlandı. Ek geliştirmeler sağlanabilir. Daha yüksek bi puan alınabilirdi. İletişim konusunda iyi olunabilirdi.
+  <li>Tahmin edilen puanımız:85+ iken yapılan 72.
+  <br><br>
+  <h3>Ürün Screenshot</h3>
+  <img src="./img/urungorsel">
+
+
+
 </details>
 
